@@ -30,11 +30,15 @@ This project is my 2nd web development project so, developing this website has b
 
 ## Screenshots of my work
 
-![image](https://github.com/user-attachments/assets/3e4a6e58-b081-4ac6-a694-5a171ea60916)
 
-![image](https://github.com/user-attachments/assets/2552dc24-7a34-4012-825e-9abf7ed0e6d1)
+![image](https://github.com/user-attachments/assets/20a79163-c01c-4cd0-82cd-89e213c4b73a)
 
-![image](https://github.com/user-attachments/assets/47c96040-3342-42ab-8328-44546c676750)
+![image](https://github.com/user-attachments/assets/b127600a-47d5-4c5c-9fca-7636f0ee57a1)
+
+
+
+
+
 
 
 
