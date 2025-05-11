@@ -1,5 +1,5 @@
 # Currency Converter
-The Currency Converter is a web application made using HTML,CSS,Jvascript that allows users to convert amounts from one currency to another currency. 
+The Currency Converter is a web application made using HTML,CSS,Javascript that allows users to convert amounts from one currency to another currency. 
 
 ## Description
 This application provides real-time exchange rates using an external API, ensuring accurate and up-to-date conversions. The application features a user-friendly interface with visual indicators like country flags for easy identification of currencies.
@@ -24,7 +24,7 @@ This application provides real-time exchange rates using an external API, ensuri
 
 This project is my 2nd web development project so, developing this website has been a valuable learning experience. Here are some of the key learnings:
 
-- **API Integration:** Gained hands-on experience in fetching data from an external API using the `fetch()` method, which means getting data from an external server. Initially, I was amazed at how we can build websites which fetches data without building our own server.
+- **API Integration:** Gained hands-on experience in fetching data from an external API using the `fetch()` method, which means getting data from an external server. 
 - **JavaScript Proficiency:** Improved my skills in JavaScript programming, particularly in areas such as DOM manipulation and advanced concepts like async-await, promises, callbacks for handling asynchronous operations.
 
 
